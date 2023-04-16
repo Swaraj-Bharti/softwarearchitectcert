@@ -1,0 +1,22 @@
+<mxfile host="app.diagrams.net" modified="2023-04-16T12:20:06.762Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="IEmS661bnv7P4njuMIeQ" version="21.1.5" type="github">
+  <diagram name="Page-1" id="ZTVly2ITTw8a5YO_hz3f">
+    <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FQEIfrjWyy0JAj6DcD6v-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="620" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FQEIfrjWyy0JAj6DcD6v-2" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="605" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FQEIfrjWyy0JAj6DcD6v-3" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="FQEIfrjWyy0JAj6DcD6v-2">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="50" y="640" as="sourcePoint" />
+            <mxPoint x="210" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
